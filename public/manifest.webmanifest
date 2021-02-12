@@ -1,6 +1,6 @@
 {
-  "short_name": "Buildstrong Budget",
-  "name": "Buildstrong Budget Tracker PWA",
+  "short_name": "urbudget",
+  "name": "urbudget Budget Tracker PWA",
   "icons": [
     {
       "src": "./icons/icon-192x192.png",
